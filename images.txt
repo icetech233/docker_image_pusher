@@ -1,2 +1,2 @@
 crawlabteam/crawlab
-mongo:7.0.5
+mongo:4.2
