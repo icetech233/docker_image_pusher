@@ -1,2 +1,7 @@
 crawlabteam/crawlab
 mongo:4.2
+alpine:3.20
+golang:1.22.6-alpine3.20
+--platform=linux/arm64 xiaoyaliu/alist
+--platform=linux/arm64 alpine:3.20
+--platform=linux/arm64 golang:1.22.6-alpine3.20
