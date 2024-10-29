@@ -6,6 +6,4 @@ eosphorosai/dbgpt
 nginx:1.26-alpine
 portainer/portainer:latest
 joinsunsoft/docker.ui
-couchbase/server:enterprise-7.2.0
-couchbase:enterprise-7.2.6
-couchbase:community-7.6.2
+couchbase/server:7.6.3
