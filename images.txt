@@ -1,9 +1,9 @@
-crawlabteam/crawlab
 mongo:4.2
 alpine:3.20
-golang:1.22.6-alpine3.20
+golang:1.23.1-alpine3.20
 eosphorosai/dbgpt-docs
 eosphorosai/dbgpt
 nginx:1.26-alpine
 portainer/portainer:latest
 joinsunsoft/docker.ui
+couchbase/server:enterprise-7.2.0
